@@ -1,0 +1,20 @@
+.contact-box {
+    margin: 0;
+    padding: 0;
+    background-color: #fd85c7c5;
+    font-family: Century Gothic;
+    width: 500px;
+    background-color: aliceblue;
+    box-shadow: 0 0 20px; #999
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #fd85c7c5;
+    font-family: Century Gothic;
+    color: #fd85c7c5;
+    width: 500px;
+    background-color: white;
+    box-shadow: 0 0 20px; #999
+}

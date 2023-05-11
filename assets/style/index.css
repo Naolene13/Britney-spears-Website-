@@ -1,0 +1,106 @@
+@font-face {
+    font-family: "Century Gothic";
+    src: url(../font/Font.ttf);
+}
+
+body {
+    background-color: #fd85c7c5;
+}
+
+.img {
+    width: 20%;
+    height: 10%;
+}
+
+.active {
+    color: #fd85c7c5 !important;
+    font-family: "Century Gothic";
+}
+
+.nav-link{
+    color: #fd85c7c5 !important;
+    font-family: "Century Gothic";
+}
+
+.nav-item{
+    margin-right: 35px;
+}
+
+.homeImage{
+    width: 100%;
+    
+}
+
+.class {
+    Width: 100%;
+    Height: 50%;
+    background-color:#fd85c7c5;
+    color:white;
+    font-family: "Century Gothic";
+    
+    }
+
+.small-box {
+    width:  400px; ;
+}
+.dark-box {
+background-color: white;
+color: #fd85c7c5;
+font-family:Century Gothic;
+}
+.square-box {
+    max-width: 600px;
+    min-height: 600px;
+    border: 1px;
+    font-family: Century Gothic;
+}
+.text-center {
+    font-family: Century Gothic;
+    color: white;
+}
+
+.containe {
+    display: flex;
+    width: 50%;
+}
+
+.container2 {
+    flex: 1;
+    margin: 10px;
+    align-items: end;
+}
+
+
+
+
+
+
+
+.btn-primary{
+    background-color: white;
+    color:#fd85c7c5;
+    border-color:white;
+    width: 200px;
+    height: 100px;
+    margin: auto;
+    font-family: Century Gothic;
+    font-size: x-large;
+    padding-top: 30px;
+    text-align: center;
+}
+
+.btn-primary:hover{
+    color: white;
+    background-color:#ca428dc5;
+    border-color:#ca428dc5;
+    margin: auto;
+    font-family: Century Gothic;
+}
+
+.btn-primary:active{
+    color: white;
+    background-color:#9b1c62c5 !important;
+    border-color:#9b1c62c5 !important;
+    margin: auto;
+    font-family: Century Gothic;
+}
