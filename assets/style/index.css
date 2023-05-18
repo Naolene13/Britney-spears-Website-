@@ -10,6 +10,7 @@ body {
 .img {
     width: 20%;
     height: 10%;
+    
 }
 
 .active {
@@ -27,7 +28,9 @@ body {
 }
 
 .homeImage{
-    width: 100%;
+    width: 75.7%;
+    object-fit: cover;
+    margin-left: 80px;
     
 }
 
@@ -60,11 +63,14 @@ font-size: large;
 .text-center {
     font-family: Century Gothic;
     color: white;
+    padding-top: 50px;
 }
 
 .container {
-    display: flex;
-    width: 50%;
+    margin-right: 10px;
+    margin-left: 10px;
+    width:100%;
+    max-width: 100%;
 }
 
 .container2 {
@@ -80,7 +86,7 @@ font-size: large;
     width: 300px;
     height: 100px;
     margin: 15px;
-
+    
     font-family: Century Gothic;
     font-size: x-large;
     padding-top: 30px;
@@ -98,6 +104,5 @@ font-size: large;
     color: white;
     background-color:#9b1c62c5 !important;
     border-color:#9b1c62c5 !important;
-    
     font-family: Century Gothic;
 }
