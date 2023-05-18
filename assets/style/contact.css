@@ -1,11 +1,38 @@
+.img {
+    width: 20%;
+    height: 10%;
+}
+
+.active {
+    color: #fd85c7c5 !important;
+    font-family: "Century Gothic";
+}
+
+.nav-link{
+    color: #fd85c7c5 !important;
+    font-family: "Century Gothic";
+}
+
+.nav-item{
+    margin-right: 35px;
+}
+
+.homeImage{
+    width: 100%;
+    
+}
+.text-center{
+    margin-top: 100px;
+}
+
 .contact-box {
-    margin: 0;
-    padding: 0;
+    margin: 10px;
+    padding-bottom: 10px;
     background-color: #fd85c7c5;
     font-family: Century Gothic;
     width: 500px;
     background-color: aliceblue;
-    box-shadow: 0 0 20px; #999
+    
 }
 
 body {
@@ -14,7 +41,23 @@ body {
     background-color: #fd85c7c5;
     font-family: Century Gothic;
     color: #fd85c7c5;
-    width: 500px;
+ 
     background-color: white;
-    box-shadow: 0 0 20px; #999
+    
+
+}
+
+.img {
+    width: 20%;
+    height: 10%;
+}
+
+
+.form-area{
+    width: 500px;
+}
+
+.form-center{
+    display: flex;
+    justify-content: center;
 }
