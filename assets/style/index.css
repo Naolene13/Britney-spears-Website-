@@ -41,12 +41,15 @@ body {
     }
 
 .small-box {
-    width:  400px; ;
+    width:  900px; ;
+    margin-top: 100px;
 }
+
 .dark-box {
 background-color: white;
 color: #fd85c7c5;
 font-family:Century Gothic;
+font-size: large;
 }
 .square-box {
     max-width: 600px;
@@ -59,7 +62,7 @@ font-family:Century Gothic;
     color: white;
 }
 
-.containe {
+.container {
     display: flex;
     width: 50%;
 }
@@ -70,19 +73,14 @@ font-family:Century Gothic;
     align-items: end;
 }
 
-
-
-
-
-
-
 .btn-primary{
     background-color: white;
     color:#fd85c7c5;
     border-color:white;
-    width: 200px;
+    width: 300px;
     height: 100px;
-    margin: auto;
+    margin: 15px;
+
     font-family: Century Gothic;
     font-size: x-large;
     padding-top: 30px;
@@ -93,7 +91,6 @@ font-family:Century Gothic;
     color: white;
     background-color:#ca428dc5;
     border-color:#ca428dc5;
-    margin: auto;
     font-family: Century Gothic;
 }
 
@@ -101,6 +98,6 @@ font-family:Century Gothic;
     color: white;
     background-color:#9b1c62c5 !important;
     border-color:#9b1c62c5 !important;
-    margin: auto;
+    
     font-family: Century Gothic;
 }
